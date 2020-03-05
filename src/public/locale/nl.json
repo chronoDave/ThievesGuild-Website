@@ -1,0 +1,12 @@
+{
+  "common": {
+    "research": "Onderzoek",
+    "genres": "Genres",
+    "popularity": "Populariteit",
+    "interactivity": "Interactiviteit",
+    "methodology": "Methode"
+  },
+  "action": {
+    "change_language": "Verander taal"
+  }
+}

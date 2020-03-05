@@ -1,0 +1,12 @@
+{
+  "common": {
+    "research": "Research",
+    "genres": "Genres",
+    "popularity": "Popularity",
+    "interactivity": "Interactivity",
+    "methodology": "Methodology"
+  },
+  "action": {
+    "change_language": "Change language"
+  }
+}

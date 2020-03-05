@@ -13,7 +13,11 @@ module.exports = {
         to: './public'
       }]
     }),
-    react(),
+    react({
+      publicPath: process.env.NODE_ENV !== 'development' ?
+        './' :
+        '/',
+    }),
     htmlTemplate({
       appMountId: 'root',
       lang: 'en',
@@ -25,10 +29,8 @@ module.exports = {
       links: [
         'https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap',
         'https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap',
+        'https://fonts.googleapis.com/css?family=Raleway&display=swap'
       ]
-    }),
-    neutrino => neutrino.config
-      .node
-        .set('Buffer', true)
+    })
   ],
 };
