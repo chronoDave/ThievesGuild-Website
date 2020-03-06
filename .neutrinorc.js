@@ -28,9 +28,11 @@ module.exports = {
       template: require.resolve('@neutrinojs/html-template/template.ejs'),
       links: [
         'https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap',
-        'https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap',
-        'https://fonts.googleapis.com/css?family=Raleway&display=swap'
+        'https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap'
       ]
-    })
+    }),
+    neutrino => neutrino.config
+      .node
+        .set('Buffer', true)
   ],
 };

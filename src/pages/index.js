@@ -1,2 +1,5 @@
 export { MainHomePage } from './Main';
-export { ResearchHomePage } from './Research';
+export {
+  ResearchHomePage,
+  ResearchGenresPage
+} from './Research';

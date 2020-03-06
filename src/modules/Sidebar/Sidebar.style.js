@@ -46,7 +46,6 @@ export const useSidebarStyles = makeStyles(theme => ({
     marginBottom: theme.spacing(0.5)
   },
   itemText: {
-    fontFamily: 'Raleway',
     fontSize: theme.typography.caption.fontSize,
     letterSpacing: 1
   },

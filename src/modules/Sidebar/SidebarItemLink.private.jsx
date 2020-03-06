@@ -30,7 +30,7 @@ const SidebarItemLink = () => {
         <SidebarItemText
           className={classes.itemLink}
           disableTranslation
-          text={isNativeLocale ? 'NL' : 'EN'}
+          text={isNativeLocale ? 'EN' : 'NL'}
           icon={<IconTranslate />}
           onClick={() => locale.changeLanguage(isNativeLocale ? 'en' : 'nl')}
         />

@@ -1,0 +1,2239 @@
+[
+  {
+    "id": 19560,
+    "aggregated_rating": 96.9444444444444,
+    "aggregated_rating_count": 21,
+    "cover": 85062,
+    "first_release_date": 1524182400,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 92,
+    "involved_companies": [
+      36378,
+      38707
+    ],
+    "name": "God of War",
+    "platforms": [
+      48
+    ],
+    "popularity": 75.6685118819895,
+    "rating": 95.7691437065105,
+    "rating_count": 824,
+    "total_rating": 96.35679407547745,
+    "total_rating_count": 845,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmu.jpg",
+    "primary": "God of War (2018)",
+    "secondary": "Rating: 96.36",
+    "agency": 0.1
+  },
+  {
+    "id": 7346,
+    "aggregated_rating": 97.5925925925926,
+    "aggregated_rating_count": 31,
+    "cover": 87289,
+    "first_release_date": 1488499200,
+    "franchise": 596,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 142,
+    "involved_companies": [
+      43563,
+      43564,
+      46485,
+      46486
+    ],
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "platforms": [
+      41,
+      130
+    ],
+    "popularity": 63.63239354877328,
+    "rating": 93.5585856165547,
+    "rating_count": 886,
+    "total_rating": 95.57558910457365,
+    "total_rating_count": 917,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcp.jpg",
+    "primary": "The Legend of Zelda: Breath of the Wild (2017)",
+    "secondary": "Rating: 95.58",
+    "agency": 0.3
+  },
+  {
+    "id": 1073,
+    "aggregated_rating": 100,
+    "aggregated_rating_count": 1,
+    "cover": 84783,
+    "first_release_date": 807580800,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      }
+    ],
+    "involved_companies": [
+      2649,
+      2650
+    ],
+    "name": "Super Mario World 2: Yoshi's Island",
+    "platforms": [
+      19,
+      24,
+      47,
+      130
+    ],
+    "popularity": 3.897584043181682,
+    "rating": 89.8395170923002,
+    "rating_count": 309,
+    "total_rating": 94.91975854615009,
+    "total_rating_count": 310,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tf3.jpg",
+    "primary": "Super Mario World 2: Yoshi's Island (1995)",
+    "secondary": "Rating: 94.92",
+    "agency": 0.1
+  },
+  {
+    "id": 1627,
+    "aggregated_rating": 100,
+    "aggregated_rating_count": 2,
+    "cover": 80256,
+    "first_release_date": 1006300800,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 4,
+        "label": "Fighting",
+        "border": "#ba2d65",
+        "color": "#f06292"
+      },
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 14,
+        "label": "Sport",
+        "border": "#7da453",
+        "color": "#aed581"
+      },
+      {
+        "id": 25,
+        "label": "Hack and slash / Beat 'em up",
+        "border": "#c88719",
+        "color": "#ffb74d"
+      }
+    ],
+    "involved_companies": [
+      7302,
+      7303
+    ],
+    "name": "Super Smash Bros. Melee",
+    "platforms": [
+      21
+    ],
+    "popularity": 7.018059166608109,
+    "rating": 89.2426898123997,
+    "rating_count": 384,
+    "total_rating": 94.62134490619985,
+    "total_rating_count": 386,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1pxc.jpg",
+    "primary": "Super Smash Bros. Melee (2001)",
+    "secondary": "Rating: 94.62",
+    "agency": -0.1
+  },
+  {
+    "id": 1942,
+    "aggregated_rating": 91.72,
+    "aggregated_rating_count": 26,
+    "cover": 89386,
+    "first_release_date": 1431993600,
+    "franchise": 452,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 179,
+    "involved_companies": [
+      17436,
+      17768,
+      17769,
+      17770,
+      17771,
+      42142,
+      64293
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "popularity": 134.9575392270916,
+    "rating": 96.6278600261795,
+    "rating_count": 1998,
+    "total_rating": 94.17393001308974,
+    "total_rating_count": 2024,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1wyy.jpg",
+    "primary": "The Witcher 3: Wild Hunt (2015)",
+    "secondary": "Rating: 94.17",
+    "agency": 0.5
+  },
+  {
+    "id": 9927,
+    "aggregated_rating": 93.5714285714286,
+    "aggregated_rating_count": 23,
+    "cover": 81906,
+    "first_release_date": 1473897600,
+    "franchise": 592,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 34,
+    "involved_companies": [
+      23554,
+      35623,
+      35624,
+      37286
+    ],
+    "name": "Persona 5",
+    "platforms": [
+      9,
+      48
+    ],
+    "popularity": 55.16253249947298,
+    "rating": 94.60147699282571,
+    "rating_count": 363,
+    "total_rating": 94.08645278212715,
+    "total_rating_count": 386,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1r76.jpg",
+    "primary": "Persona 5 (2016)",
+    "secondary": "Rating: 94.09",
+    "agency": 0.15
+  },
+  {
+    "id": 1105,
+    "aggregated_rating": 95,
+    "aggregated_rating_count": 4,
+    "cover": 77840,
+    "first_release_date": 1037491200,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      22283,
+      22284
+    ],
+    "name": "Metroid Prime",
+    "platforms": [
+      21
+    ],
+    "popularity": 6.572277006118619,
+    "rating": 92.81648712815519,
+    "rating_count": 401,
+    "total_rating": 93.9082435640776,
+    "total_rating_count": 405,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1o28.jpg",
+    "primary": "Metroid Prime (2002)",
+    "secondary": "Rating: 93.91",
+    "agency": 0.1
+  },
+  {
+    "id": 272,
+    "aggregated_rating": 100,
+    "aggregated_rating_count": 1,
+    "cover": 79801,
+    "first_release_date": 943920000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      }
+    ],
+    "involved_companies": [
+      476,
+      477,
+      87890
+    ],
+    "name": "Unreal Tournament",
+    "platforms": [
+      6,
+      8,
+      23
+    ],
+    "popularity": 3.674692962936937,
+    "rating": 87.7255574276908,
+    "rating_count": 139,
+    "total_rating": 93.8627787138454,
+    "total_rating_count": 140,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1pkp.jpg",
+    "primary": "Unreal Tournament (1999)",
+    "secondary": "Rating: 93.86",
+    "agency": -0.2
+  },
+  {
+    "id": 26758,
+    "aggregated_rating": 96.7058823529412,
+    "aggregated_rating_count": 19,
+    "cover": 76371,
+    "first_release_date": 1509062400,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 88,
+    "involved_companies": [
+      43561,
+      43562,
+      57100,
+      57101,
+      69095
+    ],
+    "name": "Super Mario Odyssey",
+    "platforms": [
+      130
+    ],
+    "popularity": 31.31318691328529,
+    "rating": 91.00223126670001,
+    "rating_count": 548,
+    "total_rating": 93.8540568098206,
+    "total_rating_count": 567,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1mxf.jpg",
+    "primary": "Super Mario Odyssey (2017)",
+    "secondary": "Rating: 93.85",
+    "agency": 0.1
+  },
+  {
+    "id": 74,
+    "aggregated_rating": 95.6,
+    "aggregated_rating_count": 14,
+    "cover": 84973,
+    "first_release_date": 1264464000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 13,
+        "label": "Simulator",
+        "border": "#519657",
+        "color": "#81c784"
+      }
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      5240,
+      5241,
+      18482,
+      52062
+    ],
+    "name": "Mass Effect 2",
+    "platforms": [
+      6,
+      9,
+      12
+    ],
+    "popularity": 16.60237561713213,
+    "rating": 91.9274391330776,
+    "rating_count": 1350,
+    "total_rating": 93.7637195665388,
+    "total_rating_count": 1364,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tkd.jpg",
+    "primary": "Mass Effect 2 (2010)",
+    "secondary": "Rating: 93.76",
+    "agency": 0.4
+  },
+  {
+    "id": 1020,
+    "aggregated_rating": 95.84,
+    "aggregated_rating_count": 34,
+    "cover": 84845,
+    "first_release_date": 1379376000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 10,
+        "label": "Racing",
+        "border": "#0093c4",
+        "color": "#4fc3f7"
+      },
+      {
+        "id": 14,
+        "label": "Sport",
+        "border": "#7da453",
+        "color": "#aed581"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      18070,
+      18071,
+      20018
+    ],
+    "name": "Grand Theft Auto V",
+    "platforms": [
+      6,
+      9,
+      12,
+      48,
+      49
+    ],
+    "popularity": 124.4816584555886,
+    "rating": 91.3369749058708,
+    "rating_count": 2224,
+    "total_rating": 93.5884874529354,
+    "total_rating_count": 2258,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tgt.jpg",
+    "primary": "Grand Theft Auto V (2013)",
+    "secondary": "Rating: 93.59",
+    "agency": -0.1
+  },
+  {
+    "id": 25076,
+    "aggregated_rating": 94.0588235294118,
+    "aggregated_rating_count": 27,
+    "cover": 80403,
+    "first_release_date": 1540512000,
+    "franchise": 884,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 257,
+    "involved_companies": [
+      40855,
+      55017,
+      55829
+    ],
+    "name": "Red Dead Redemption 2",
+    "platforms": [
+      6,
+      48,
+      49,
+      170
+    ],
+    "popularity": 68.98177947464715,
+    "rating": 92.971285566329,
+    "rating_count": 584,
+    "total_rating": 93.51505454787039,
+    "total_rating_count": 611,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1q1f.jpg",
+    "primary": "Red Dead Redemption 2 (2018)",
+    "secondary": "Rating: 93.52",
+    "agency": 0.2
+  },
+  {
+    "id": 1078,
+    "aggregated_rating": 96.25,
+    "aggregated_rating_count": 10,
+    "cover": 84754,
+    "first_release_date": 1274572800,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      4940,
+      4941
+    ],
+    "name": "Super Mario Galaxy 2",
+    "platforms": [
+      5,
+      41
+    ],
+    "popularity": 7.909623487587088,
+    "rating": 90.2997692798496,
+    "rating_count": 370,
+    "total_rating": 93.2748846399248,
+    "total_rating_count": 380,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tea.jpg",
+    "primary": "Super Mario Galaxy 2 (2010)",
+    "secondary": "Rating: 93.27",
+    "agency": 0.1
+  },
+  {
+    "id": 1077,
+    "aggregated_rating": 98.75,
+    "aggregated_rating_count": 5,
+    "cover": 84753,
+    "first_release_date": 1193875200,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      4867,
+      4868
+    ],
+    "name": "Super Mario Galaxy",
+    "platforms": [
+      5,
+      41
+    ],
+    "popularity": 7.463841327097598,
+    "rating": 87.599999518225,
+    "rating_count": 449,
+    "total_rating": 93.1749997591125,
+    "total_rating_count": 454,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1te9.jpg",
+    "primary": "Super Mario Galaxy (2007)",
+    "secondary": "Rating: 93.17",
+    "agency": 0.1
+  },
+  {
+    "id": 1009,
+    "aggregated_rating": 91.5384615384615,
+    "aggregated_rating_count": 16,
+    "cover": 81915,
+    "first_release_date": 1371168000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      73932,
+      73933
+    ],
+    "name": "The Last of Us",
+    "platforms": [
+      9
+    ],
+    "popularity": 48.47580009213063,
+    "rating": 94.7430700622964,
+    "rating_count": 1459,
+    "total_rating": 93.14076580037894,
+    "total_rating_count": 1475,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7f.jpg",
+    "primary": "The Last of Us (2013)",
+    "secondary": "Rating: 93.14",
+    "agency": 0.05
+  },
+  {
+    "id": 7331,
+    "aggregated_rating": 93.1666666666667,
+    "aggregated_rating_count": 25,
+    "cover": 81917,
+    "first_release_date": 1462838400,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 64,
+    "involved_companies": [
+      17326,
+      17327
+    ],
+    "name": "Uncharted 4: A Thief's End",
+    "platforms": [
+      48
+    ],
+    "popularity": 47.36134469090691,
+    "rating": 92.8579992889528,
+    "rating_count": 957,
+    "total_rating": 93.01233297780975,
+    "total_rating_count": 982,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7h.jpg",
+    "primary": "Uncharted 4: A Thief's End (2016)",
+    "secondary": "Rating: 93.01",
+    "agency": 0.02
+  },
+  {
+    "id": 1802,
+    "aggregated_rating": 91.3333333333333,
+    "aggregated_rating_count": 5,
+    "cover": 81922,
+    "first_release_date": 794880000,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      }
+    ],
+    "involved_companies": [
+      5729
+    ],
+    "name": "Chrono Trigger",
+    "platforms": [
+      5,
+      6,
+      7,
+      19,
+      20,
+      34,
+      39
+    ],
+    "popularity": 43.34930524650151,
+    "rating": 94.3682508719171,
+    "rating_count": 604,
+    "total_rating": 92.8507921026252,
+    "total_rating_count": 609,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7m.jpg",
+    "primary": "Chrono Trigger (1995)",
+    "secondary": "Rating: 92.85",
+    "agency": 0.2
+  },
+  {
+    "id": 565,
+    "aggregated_rating": 95.375,
+    "aggregated_rating_count": 10,
+    "cover": 85079,
+    "first_release_date": 1246320000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      1370,
+      1371
+    ],
+    "name": "Uncharted 2: Among Thieves",
+    "platforms": [
+      9,
+      48
+    ],
+    "popularity": 13.03611833321622,
+    "rating": 90.293851413893,
+    "rating_count": 1022,
+    "total_rating": 92.83442570694649,
+    "total_rating_count": 1032,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnb.jpg",
+    "primary": "Uncharted 2: Among Thieves (2009)",
+    "secondary": "Rating: 92.83",
+    "agency": 0.02
+  },
+  {
+    "id": 987,
+    "aggregated_rating": 100,
+    "aggregated_rating_count": 4,
+    "cover": 90048,
+    "first_release_date": 1190678400,
+    "franchise": 137,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      }
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      2378,
+      2379
+    ],
+    "name": "Halo 3",
+    "platforms": [
+      12,
+      49
+    ],
+    "popularity": 6.795220670521917,
+    "rating": 85.3277372284692,
+    "rating_count": 373,
+    "total_rating": 92.6638686142346,
+    "total_rating_count": 377,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1xhc.jpg",
+    "primary": "Halo 3 (2007)",
+    "secondary": "Rating: 92.66",
+    "agency": 0.04
+  },
+  {
+    "id": 472,
+    "aggregated_rating": 96.1111111111111,
+    "aggregated_rating_count": 12,
+    "cover": 85100,
+    "first_release_date": 1320969600,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      3717,
+      3719
+    ],
+    "name": "The Elder Scrolls V: Skyrim",
+    "platforms": [
+      6,
+      9,
+      12
+    ],
+    "popularity": 34.65655311695646,
+    "rating": 88.40597881568829,
+    "rating_count": 1846,
+    "total_rating": 92.25854496339969,
+    "total_rating_count": 1858,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnw.jpg",
+    "primary": "The Elder Scrolls V: Skyrim (2011)",
+    "secondary": "Rating: 92.26",
+    "agency": -0.1
+  },
+  {
+    "id": 116,
+    "aggregated_rating": 93.5,
+    "aggregated_rating_count": 10,
+    "cover": 85067,
+    "first_release_date": 1058227200,
+    "franchise": 1,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      18949,
+      18950,
+      18951,
+      42058
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "platforms": [
+      6,
+      11,
+      14,
+      34,
+      39
+    ],
+    "popularity": 13.25900941346096,
+    "rating": 90.8027525199166,
+    "rating_count": 661,
+    "total_rating": 92.1513762599583,
+    "total_rating_count": 671,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmz.jpg",
+    "primary": "Star Wars: Knights of the Old Republic (2003)",
+    "secondary": "Rating: 92.15",
+    "agency": 0.6
+  },
+  {
+    "id": 1128,
+    "aggregated_rating": 92.3333333333333,
+    "aggregated_rating_count": 3,
+    "cover": 77079,
+    "first_release_date": 858816000,
+    "franchise": 895,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      2634,
+      23063,
+      23064,
+      72670
+    ],
+    "name": "Castlevania: Symphony of the Night",
+    "platforms": [
+      7,
+      32,
+      36
+    ],
+    "popularity": 11.69877185174775,
+    "rating": 91.7478231556569,
+    "rating_count": 245,
+    "total_rating": 92.0405782444951,
+    "total_rating_count": 248,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1nh3.jpg",
+    "primary": "Castlevania: Symphony of the Night (1997)",
+    "secondary": "Rating: 92.04",
+    "agency": 0.1
+  },
+  {
+    "id": 1029,
+    "cover": 76691,
+    "first_release_date": 911606400,
+    "franchise": 596,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 9,
+        "label": "Puzzle",
+        "border": "#2286c3",
+        "color": "#64b5f6"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      23213,
+      23214
+    ],
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "platforms": [
+      4,
+      5,
+      21,
+      41,
+      47
+    ],
+    "popularity": 20.61441506153754,
+    "rating": 92.012581294422,
+    "rating_count": 1005,
+    "total_rating": 92.012581294422,
+    "total_rating_count": 1005,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1n6b.jpg",
+    "primary": "The Legend of Zelda: Ocarina of Time (1998)",
+    "secondary": "Rating: 92.01",
+    "agency": 0.1
+  },
+  {
+    "id": 72,
+    "aggregated_rating": 92.4444444444444,
+    "aggregated_rating_count": 13,
+    "cover": 82660,
+    "first_release_date": 1303171200,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 9,
+        "label": "Puzzle",
+        "border": "#2286c3",
+        "color": "#64b5f6"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      1003
+    ],
+    "name": "Portal 2",
+    "platforms": [
+      6,
+      9,
+      12,
+      14
+    ],
+    "popularity": 22.3975437034955,
+    "rating": 91.57465348394149,
+    "rating_count": 1739,
+    "total_rating": 92.00954896419294,
+    "total_rating_count": 1752,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1rs4.jpg",
+    "primary": "Portal 2 (2011)",
+    "secondary": "Rating: 92.01",
+    "agency": 0.05
+  },
+  {
+    "id": 55935,
+    "aggregated_rating": 94.5,
+    "aggregated_rating_count": 2,
+    "cover": 30925,
+    "first_release_date": 1506038400,
+    "genres": [
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      },
+      {
+        "id": 32,
+        "label": "Indie",
+        "border": "#0043ca",
+        "color": "#536dfe"
+      },
+      {
+        "id": 34,
+        "label": "Visual Novel",
+        "border": "#2bbd7e",
+        "color": "#69f0ae"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      91811
+    ],
+    "name": "Doki Doki Literature Club!",
+    "platforms": [
+      3,
+      6,
+      14
+    ],
+    "popularity": 16.82526669737688,
+    "rating": 89.3052267456042,
+    "rating_count": 164,
+    "total_rating": 91.90261337280211,
+    "total_rating_count": 166,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/sjz2xv4sjhi6qagbveau.jpg",
+    "primary": "Doki Doki Literature Club! (2017)",
+    "secondary": "Rating: 91.90",
+    "agency": 0
+  },
+  {
+    "id": 12517,
+    "aggregated_rating": 96.3846153846154,
+    "aggregated_rating_count": 16,
+    "cover": 85095,
+    "first_release_date": 1442275200,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 16,
+        "label": "Turn-based-strategy (TBS)",
+        "border": "#cabf45",
+        "color": "#fff176"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      },
+      {
+        "id": 32,
+        "label": "Indie",
+        "border": "#0043ca",
+        "color": "#536dfe"
+      }
+    ],
+    "involved_companies": [
+      52247
+    ],
+    "name": "Undertale",
+    "platforms": [
+      3,
+      6,
+      14,
+      46,
+      48,
+      130
+    ],
+    "popularity": 33.09631555524324,
+    "rating": 87.1948377539766,
+    "rating_count": 661,
+    "total_rating": 91.789726569296,
+    "total_rating_count": 677,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnr.jpg",
+    "primary": "Undertale (2015)",
+    "secondary": "Rating: 91.79",
+    "agency": 0.1
+  },
+  {
+    "id": 481,
+    "aggregated_rating": 90,
+    "aggregated_rating_count": 2,
+    "cover": 79066,
+    "first_release_date": 1001289600,
+    "franchise": 554,
+    "genres": [
+      {
+        "id": 9,
+        "label": "Puzzle",
+        "border": "#2286c3",
+        "color": "#64b5f6"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      346,
+      347
+    ],
+    "name": "Silent Hill 2",
+    "platforms": [
+      6,
+      8,
+      11
+    ],
+    "popularity": 15.9337023763979,
+    "rating": 93.4832702553361,
+    "rating_count": 488,
+    "total_rating": 91.74163512766805,
+    "total_rating_count": 490,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1p0a.jpg",
+    "primary": "Silent Hill 2 (2001)",
+    "secondary": "Rating: 91.74",
+    "agency": 0.1
+  },
+  {
+    "id": 732,
+    "aggregated_rating": 93.1428571428571,
+    "aggregated_rating_count": 7,
+    "cover": 84848,
+    "first_release_date": 1098748800,
+    "franchise": 493,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 10,
+        "label": "Racing",
+        "border": "#0093c4",
+        "color": "#4fc3f7"
+      },
+      {
+        "id": 14,
+        "label": "Sport",
+        "border": "#7da453",
+        "color": "#aed581"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      55974,
+      55979,
+      55980
+    ],
+    "name": "Grand Theft Auto: San Andreas",
+    "platforms": [
+      6,
+      8,
+      9,
+      11,
+      12,
+      14,
+      34,
+      36,
+      39,
+      48
+    ],
+    "popularity": 37.3312460798934,
+    "rating": 90.1717750995258,
+    "rating_count": 1509,
+    "total_rating": 91.65731612119146,
+    "total_rating_count": 1516,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tgw.jpg",
+    "primary": "Grand Theft Auto: San Andreas (2004)",
+    "secondary": "Rating: 91.66",
+    "agency": -0.1
+  },
+  {
+    "id": 7170,
+    "aggregated_rating": 96.6666666666667,
+    "aggregated_rating_count": 3,
+    "cover": 78910,
+    "first_release_date": 1001289600,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 9,
+        "label": "Puzzle",
+        "border": "#2286c3",
+        "color": "#64b5f6"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      16964,
+      16965
+    ],
+    "name": "Ico",
+    "platforms": [
+      8,
+      9
+    ],
+    "popularity": 4.343396540685721,
+    "rating": 86.5647630996852,
+    "rating_count": 165,
+    "total_rating": 91.61571488317594,
+    "total_rating_count": 168,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1ovy.jpg",
+    "primary": "Ico (2001)",
+    "secondary": "Rating: 91.62",
+    "agency": 0.3
+  },
+  {
+    "id": 7789,
+    "aggregated_rating": 95,
+    "aggregated_rating_count": 2,
+    "cover": 74290,
+    "first_release_date": 1415059200,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      },
+      {
+        "id": 33,
+        "label": "Arcade",
+        "border": "#0094cc",
+        "color": "#40c4ff"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      43496,
+      43497
+    ],
+    "name": "The Binding of Isaac: Rebirth",
+    "platforms": [
+      3,
+      6,
+      14,
+      37,
+      39,
+      41,
+      45,
+      46,
+      48,
+      49,
+      137
+    ],
+    "popularity": 9.4698610493003,
+    "rating": 88.16976861270649,
+    "rating_count": 255,
+    "total_rating": 91.58488430635325,
+    "total_rating_count": 257,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1lbm.jpg",
+    "primary": "The Binding of Isaac: Rebirth (2014)",
+    "secondary": "Rating: 91.58",
+    "agency": -0.3
+  },
+  {
+    "id": 1036,
+    "aggregated_rating": 96.25,
+    "aggregated_rating_count": 6,
+    "cover": 86203,
+    "first_release_date": 1163894400,
+    "franchise": 596,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 9,
+        "label": "Puzzle",
+        "border": "#2286c3",
+        "color": "#64b5f6"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 14,
+        "label": "Sport",
+        "border": "#7da453",
+        "color": "#aed581"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      22252,
+      22253
+    ],
+    "name": "The Legend of Zelda: Twilight Princess",
+    "platforms": [
+      5,
+      21
+    ],
+    "popularity": 9.91564320978979,
+    "rating": 86.61850454552379,
+    "rating_count": 404,
+    "total_rating": 91.4342522727619,
+    "total_rating_count": 410,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1uij.jpg",
+    "primary": "The Legend of Zelda: Twilight Princess (2006)",
+    "secondary": "Rating: 91.43",
+    "agency": 0.1
+  },
+  {
+    "id": 1107,
+    "aggregated_rating": 95,
+    "aggregated_rating_count": 3,
+    "cover": 87282,
+    "first_release_date": 1076284800,
+    "franchise": 756,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      30547,
+      30548
+    ],
+    "name": "Metroid: Zero Mission",
+    "platforms": [
+      24,
+      41
+    ],
+    "popularity": 2.783128641957958,
+    "rating": 87.7576890007782,
+    "rating_count": 117,
+    "total_rating": 91.3788445003891,
+    "total_rating_count": 120,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1vci.jpg",
+    "primary": "Metroid: Zero Mission (2004)",
+    "secondary": "Rating: 91.38",
+    "agency": 0.1
+  },
+  {
+    "id": 3349,
+    "aggregated_rating": 89.5,
+    "aggregated_rating_count": 2,
+    "cover": 82093,
+    "first_release_date": 1090454400,
+    "franchise": 24,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      8751,
+      8752
+    ],
+    "name": "Paper Mario: The Thousand-Year Door",
+    "platforms": [
+      21
+    ],
+    "popularity": 18.60839533933484,
+    "rating": 93.12562880710979,
+    "rating_count": 180,
+    "total_rating": 91.3128144035549,
+    "total_rating_count": 182,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1rcd.jpg",
+    "primary": "Paper Mario: The Thousand-Year Door (2004)",
+    "secondary": "Rating: 91.31",
+    "agency": 0.15
+  },
+  {
+    "id": 6,
+    "aggregated_rating": 90,
+    "aggregated_rating_count": 1,
+    "cover": 90896,
+    "first_release_date": 969494400,
+    "franchise": 43,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      }
+    ],
+    "involved_companies": [
+      14,
+      158,
+      18474,
+      18475
+    ],
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "platforms": [
+      3,
+      6,
+      14
+    ],
+    "popularity": 22.17465262325075,
+    "rating": 92.4493287127556,
+    "rating_count": 270,
+    "total_rating": 91.2246643563778,
+    "total_rating_count": 271,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1y4w.jpg",
+    "primary": "Baldur's Gate II: Shadows of Amn (2000)",
+    "secondary": "Rating: 91.22",
+    "agency": 0.5
+  },
+  {
+    "id": 14593,
+    "aggregated_rating": 91.25,
+    "aggregated_rating_count": 10,
+    "cover": 82242,
+    "first_release_date": 1487894400,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 25,
+        "label": "Hack and slash / Beat 'em up",
+        "border": "#c88719",
+        "color": "#ffb74d"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      },
+      {
+        "id": 32,
+        "label": "Indie",
+        "border": "#0043ca",
+        "color": "#536dfe"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      68980,
+      68981
+    ],
+    "name": "Hollow Knight",
+    "platforms": [
+      3,
+      6,
+      14,
+      130
+    ],
+    "popularity": 62.29504706730481,
+    "rating": 91.1836750358693,
+    "rating_count": 357,
+    "total_rating": 91.21683751793465,
+    "total_rating_count": 367,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1rgi.jpg",
+    "primary": "Hollow Knight (2017)",
+    "secondary": "Rating: 91.22",
+    "agency": 0.1
+  },
+  {
+    "id": 22,
+    "cover": 90952,
+    "first_release_date": 934329600,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      }
+    ],
+    "involved_companies": [
+      751,
+      752,
+      753
+    ],
+    "name": "System Shock 2",
+    "platforms": [
+      6
+    ],
+    "popularity": 5.012075848822866,
+    "rating": 91.20306510870391,
+    "rating_count": 155,
+    "total_rating": 91.20306510870391,
+    "total_rating_count": 155,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1y6g.jpg",
+    "primary": "System Shock 2 (1999)",
+    "secondary": "Rating: 91.20",
+    "agency": 0.3
+  },
+  {
+    "id": 499,
+    "aggregated_rating": 96,
+    "aggregated_rating_count": 11,
+    "cover": 84536,
+    "first_release_date": 1268697600,
+    "genres": [
+      {
+        "id": 25,
+        "label": "Hack and slash / Beat 'em up",
+        "border": "#c88719",
+        "color": "#ffb74d"
+      }
+    ],
+    "involved_companies": [
+      38698,
+      45113,
+      45114
+    ],
+    "name": "God of War III",
+    "platforms": [
+      9,
+      48
+    ],
+    "popularity": 13.25900941346096,
+    "rating": 86.29436740657651,
+    "rating_count": 359,
+    "total_rating": 91.14718370328825,
+    "total_rating_count": 370,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1t88.jpg",
+    "primary": "God of War III (2010)",
+    "secondary": "Rating: 91.15",
+    "agency": 0.1
+  },
+  {
+    "id": 233,
+    "aggregated_rating": 91,
+    "aggregated_rating_count": 8,
+    "cover": 77288,
+    "first_release_date": 1100563200,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      }
+    ],
+    "involved_companies": [
+      18928,
+      18929,
+      88970
+    ],
+    "name": "Half-Life 2",
+    "platforms": [
+      3,
+      6,
+      9,
+      11,
+      12,
+      14,
+      34
+    ],
+    "popularity": 23.73489018496397,
+    "rating": 91.1528752333131,
+    "rating_count": 1482,
+    "total_rating": 91.07643761665655,
+    "total_rating_count": 1490,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1nmw.jpg",
+    "primary": "Half-Life 2 (2004)",
+    "secondary": "Rating: 91.08",
+    "agency": 0.1
+  },
+  {
+    "id": 132,
+    "aggregated_rating": 93,
+    "aggregated_rating_count": 4,
+    "cover": 90530,
+    "first_release_date": 1025654400,
+    "franchise": 135,
+    "genres": [
+      {
+        "id": 11,
+        "label": "Real Time Strategy (RTS)",
+        "border": "#4dd0e1",
+        "color": "#009faf"
+      },
+      {
+        "id": 15,
+        "label": "Strategy",
+        "border": "#a8b545",
+        "color": "#dce775"
+      }
+    ],
+    "involved_companies": [
+      8012,
+      19472,
+      19473
+    ],
+    "name": "Warcraft III: Reign of Chaos",
+    "platforms": [
+      6,
+      14
+    ],
+    "popularity": 7.463841327097598,
+    "rating": 89.0481555351778,
+    "rating_count": 722,
+    "total_rating": 91.02407776758889,
+    "total_rating_count": 726,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1xuq.jpg",
+    "primary": "Warcraft III: Reign of Chaos (2002)",
+    "secondary": "Rating: 91.02",
+    "agency": -0.3
+  },
+  {
+    "id": 7334,
+    "aggregated_rating": 91.1111111111111,
+    "aggregated_rating_count": 21,
+    "cover": 82054,
+    "first_release_date": 1427155200,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 9,
+    "involved_companies": [
+      17332,
+      17333
+    ],
+    "name": "Bloodborne",
+    "platforms": [
+      48
+    ],
+    "popularity": 25.51801882692192,
+    "rating": 90.9333830227967,
+    "rating_count": 649,
+    "total_rating": 91.0222470669539,
+    "total_rating_count": 670,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1rba.jpg",
+    "primary": "Bloodborne (2015)",
+    "secondary": "Rating: 91.02",
+    "agency": 0.1
+  },
+  {
+    "id": 434,
+    "aggregated_rating": 91.8,
+    "aggregated_rating_count": 13,
+    "cover": 80402,
+    "first_release_date": 1274140800,
+    "franchise": 884,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      3868,
+      3869,
+      3870,
+      18530
+    ],
+    "name": "Red Dead Redemption",
+    "platforms": [
+      9,
+      12
+    ],
+    "popularity": 16.15659345664265,
+    "rating": 90.0620388341349,
+    "rating_count": 1084,
+    "total_rating": 90.93101941706745,
+    "total_rating_count": 1097,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1q1e.jpg",
+    "primary": "Red Dead Redemption (2010)",
+    "secondary": "Rating: 90.93",
+    "agency": 0.2
+  },
+  {
+    "id": 733,
+    "aggregated_rating": 94,
+    "aggregated_rating_count": 6,
+    "cover": 84847,
+    "first_release_date": 1035676800,
+    "franchise": 493,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 10,
+        "label": "Racing",
+        "border": "#0093c4",
+        "color": "#4fc3f7"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      },
+      {
+        "id": 33,
+        "label": "Arcade",
+        "border": "#0094cc",
+        "color": "#40c4ff"
+      }
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      8285,
+      20013,
+      63950,
+      63951
+    ],
+    "name": "Grand Theft Auto: Vice City",
+    "platforms": [
+      6,
+      8,
+      11,
+      14,
+      34,
+      39,
+      48
+    ],
+    "popularity": 33.76498879597748,
+    "rating": 87.8566027168656,
+    "rating_count": 1228,
+    "total_rating": 90.9283013584328,
+    "total_rating_count": 1234,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tgv.jpg",
+    "primary": "Grand Theft Auto: Vice City (2002)",
+    "secondary": "Rating: 90.93",
+    "agency": -0.1
+  },
+  {
+    "id": 11156,
+    "aggregated_rating": 89.4347826086957,
+    "aggregated_rating_count": 26,
+    "cover": 71277,
+    "first_release_date": 1488240000,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      }
+    ],
+    "hypes": 95,
+    "involved_companies": [
+      24436,
+      44408
+    ],
+    "name": "Horizon Zero Dawn",
+    "platforms": [
+      6,
+      48
+    ],
+    "popularity": 59.84324518461262,
+    "rating": 92.361980696689,
+    "rating_count": 751,
+    "total_rating": 90.89838165269235,
+    "total_rating_count": 777,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1izx.jpg",
+    "primary": "Horizon Zero Dawn (2017)",
+    "secondary": "Rating: 90.90",
+    "agency": 0.1
+  },
+  {
+    "id": 36926,
+    "aggregated_rating": 93.25,
+    "aggregated_rating_count": 24,
+    "cover": 82685,
+    "first_release_date": 1516924800,
+    "franchise": 824,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 90,
+    "involved_companies": [
+      59586
+    ],
+    "name": "Monster Hunter: World",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "popularity": 38.22281040087238,
+    "rating": 88.5094590776295,
+    "rating_count": 187,
+    "total_rating": 90.87972953881476,
+    "total_rating_count": 211,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1rst.jpg",
+    "primary": "Monster Hunter: World (2018)",
+    "secondary": "Rating: 90.88",
+    "agency": -0.25
+  },
+  {
+    "id": 1985,
+    "aggregated_rating": 95.7368421052632,
+    "aggregated_rating_count": 24,
+    "cover": 87125,
+    "first_release_date": 1441065600,
+    "franchise": 463,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 24,
+        "label": "Tactical",
+        "border": "#c8a415",
+        "color": "#ffd54f"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "hypes": 57,
+    "involved_companies": [
+      5115,
+      5116
+    ],
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "platforms": [
+      6,
+      9,
+      12,
+      48,
+      49
+    ],
+    "popularity": 31.75896907377478,
+    "rating": 85.8285385986912,
+    "rating_count": 505,
+    "total_rating": 90.7826903519772,
+    "total_rating_count": 529,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1v85.jpg",
+    "primary": "Metal Gear Solid V: The Phantom Pain (2015)",
+    "secondary": "Rating: 90.78",
+    "agency": 0.3
+  },
+  {
+    "id": 418,
+    "aggregated_rating": 95,
+    "aggregated_rating_count": 2,
+    "cover": 85213,
+    "first_release_date": 995500800,
+    "franchise": 4,
+    "genres": [
+      {
+        "id": 12,
+        "label": "Role-playing (RPG)",
+        "border": "#00867d",
+        "color": "#4db6ac"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      972,
+      973,
+      974
+    ],
+    "name": "Final Fantasy X",
+    "platforms": [
+      8
+    ],
+    "popularity": 5.234968951535246,
+    "rating": 86.4837497008603,
+    "rating_count": 399,
+    "total_rating": 90.74187485043015,
+    "total_rating_count": 401,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1tr1.jpg",
+    "primary": "Final Fantasy X (2001)",
+    "secondary": "Rating: 90.74",
+    "agency": 0.1
+  },
+  {
+    "id": 654,
+    "aggregated_rating": 95,
+    "aggregated_rating_count": 5,
+    "cover": 76397,
+    "first_release_date": 1158019200,
+    "genres": [
+      {
+        "id": 11,
+        "label": "Real Time Strategy (RTS)",
+        "border": "#4dd0e1",
+        "color": "#009faf"
+      },
+      {
+        "id": 15,
+        "label": "Strategy",
+        "border": "#a8b545",
+        "color": "#dce775"
+      }
+    ],
+    "involved_companies": [
+      1531,
+      1532,
+      18997
+    ],
+    "name": "Company of Heroes",
+    "platforms": [
+      6
+    ],
+    "popularity": 4.789182746110484,
+    "rating": 86.337029767977,
+    "rating_count": 111,
+    "total_rating": 90.66851488398851,
+    "total_rating_count": 116,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1my5.jpg",
+    "primary": "Company of Heroes (2006)",
+    "secondary": "Rating: 90.67",
+    "agency": -0.4
+  },
+  {
+    "id": 2135,
+    "aggregated_rating": 91.4285714285714,
+    "aggregated_rating_count": 23,
+    "cover": 7526,
+    "first_release_date": 1411171200,
+    "genres": [
+      {
+        "id": 25,
+        "label": "Hack and slash / Beat 'em up",
+        "border": "#c88719",
+        "color": "#ffb74d"
+      }
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      58910,
+      58911
+    ],
+    "name": "Bayonetta 2",
+    "platforms": [
+      41,
+      130
+    ],
+    "popularity": 4.789148364160662,
+    "rating": 89.67140627512191,
+    "rating_count": 107,
+    "total_rating": 90.54998885184665,
+    "total_rating_count": 130,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/qocwccspgmgamvhaplgp.jpg",
+    "primary": "Bayonetta 2 (2014)",
+    "secondary": "Rating: 90.55",
+    "agency": 0.1
+  },
+  {
+    "id": 551,
+    "aggregated_rating": 92.75,
+    "aggregated_rating_count": 6,
+    "cover": 78897,
+    "first_release_date": 1173744000,
+    "genres": [
+      {
+        "id": 8,
+        "label": "Platform",
+        "border": "#49599a",
+        "color": "#7986cb"
+      },
+      {
+        "id": 25,
+        "label": "Hack and slash / Beat 'em up",
+        "border": "#c88719",
+        "color": "#ffb74d"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      1332,
+      1333,
+      38695
+    ],
+    "name": "God of War II",
+    "platforms": [
+      8,
+      9
+    ],
+    "popularity": 15.04213805541892,
+    "rating": 88.23244128116241,
+    "rating_count": 500,
+    "total_rating": 90.4912206405812,
+    "total_rating_count": 506,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1ovl.jpg",
+    "primary": "God of War II (2007)",
+    "secondary": "Rating: 90.49",
+    "agency": 0.1
+  },
+  {
+    "id": 380,
+    "aggregated_rating": 93.875,
+    "aggregated_rating_count": 9,
+    "cover": 87124,
+    "first_release_date": 1213228800,
+    "genres": [
+      {
+        "id": 5,
+        "label": "Shooter",
+        "border": "#883997",
+        "color": "#ba68c8"
+      },
+      {
+        "id": 24,
+        "label": "Tactical",
+        "border": "#c8a415",
+        "color": "#ffd54f"
+      },
+      {
+        "id": 31,
+        "label": "Adventure",
+        "border": "#aa00c7",
+        "color": "#e040fb"
+      }
+    ],
+    "involved_companies": [
+      839,
+      840
+    ],
+    "name": "Metal Gear Solid 4: Guns of the Patriots",
+    "platforms": [
+      9
+    ],
+    "popularity": 2.560237561713214,
+    "rating": 87.10366215192639,
+    "rating_count": 355,
+    "total_rating": 90.4893310759632,
+    "total_rating_count": 364,
+    "avatar": "//images.igdb.com/igdb/image/upload/t_thumb/co1v84.jpg",
+    "primary": "Metal Gear Solid 4: Guns of the Patriots (2008)",
+    "secondary": "Rating: 90.49",
+    "agency": 0.2
+  }
+]
