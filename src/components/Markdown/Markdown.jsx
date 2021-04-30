@@ -2,8 +2,6 @@ import React, {
   useState,
   useEffect
 } from 'react';
-import { get } from 'https';
-import path from 'path';
 import { useTranslation } from 'react-i18next';
 import MarkdownJsx from 'markdown-to-jsx';
 import PropTypes from 'prop-types';
@@ -13,29 +11,30 @@ import { Container } from '@material-ui/core';
 
 import { options } from './options';
 
+// Files
+import MainHomeEn from '../../public/markdown/en/Main_Home.md';
+import MainHomeNl from '../../public/markdown/nl/Main_Home.md';
+import ResearchAboutEn from '../../public/markdown/en/Research_About.md';
+import ResearchAboutNl from '../../public/markdown/nl/Research_About.md';
+
+const pages = {
+  en: {
+    Main_Home: MainHomeEn,
+    Research_About: ResearchAboutEn
+  },
+  nl: {
+    Main_Home: MainHomeNl,
+    Research_About: ResearchAboutNl
+  }
+};
+
 const Markdown = ({ id, maxWidth, ...rest }) => {
   const [file, setFile] = useState('');
 
   const { i18n: { language } } = useTranslation();
 
   useEffect(() => {
-    const root = process.env.NODE_ENV === 'development' ?
-      'src/public/markdown' :
-      'markdown';
-    const filePath = path.resolve(root, language, `${id}.md`);
-
-    get(filePath, res => {
-      const { statusCode } = res;
-
-      if (statusCode === 200) {
-        const chunks = [];
-
-        res.on('data', chunk => chunks.push(chunk));
-        res.on('end', () => setFile(chunks.join('')));
-      } else {
-        console.error(`Failed to fetch from ${filePath}`);
-      }
-    });
+    setFile(pages[language][id]);
   }, [language, id]);
 
   return (

@@ -8,7 +8,6 @@ module.exports = {
     'airbnb',
     'airbnb/hooks'
   ],
-  parser: 'babel-eslint',
   rules: {
     // General
     'operator-linebreak': ['error', 'after'],
@@ -22,6 +21,7 @@ module.exports = {
     // Import
     'import/namespace': ['error', { 'allowComputed': true }],
     'import/prefer-default-export': 'off',
+    'import/no-cycle': 'off',
     // JSX
     'jsx-a11y/label-has-for': 'off' // This rule was deprecated in v6.1.0.
   }
